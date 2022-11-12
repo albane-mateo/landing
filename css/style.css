@@ -1,0 +1,27 @@
+@import url(component/container.css);
+@import url(component/button.css);
+@import url(component/banner.css);
+@import url(component/card.css);
+
+
+body {
+	background-color:#EEEEEE;
+	color: rgb(50, 50, 50);
+	font-family: cochin;
+	font-size: 17px;
+	}
+
+h1,h2,h3 {
+	font-family: wilma;
+	}
+
+h4 {
+	font-family: cochin;
+	color: darkred;
+	font-size: 20px;
+	font-weight: lighter;
+}
+p {
+	text-align: justify;
+}
+

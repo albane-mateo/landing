@@ -1,0 +1,10 @@
+.card {
+	padding:  10px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border-radius: 5px;
+	font-size: 13px;	color: black;
+	font-family: gordita;
+	text-decoration: none;
+}
